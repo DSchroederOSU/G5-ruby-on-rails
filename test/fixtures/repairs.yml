@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  firstname: 
+  lastname: 
+  phone: 
+  year: 
+  make: 
+  model: 
+  repair: 
+  date: 
+  time: MyString
+
+two:
+  firstname: 
+  lastname: 
+  phone: 
+  year: 
+  make: 
+  model: 
+  repair: 
+  date: 
+  time: MyString
